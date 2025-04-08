@@ -5,7 +5,7 @@ import {NavLink} from 'react-router-dom'
 import Blue from '../pages/blue'
 import Red from '../pages/red'
 import Home from '../pages/home'
-import { current } from '@reduxjs/toolkit'
+
 
 export default function Navbar() {
   return (
