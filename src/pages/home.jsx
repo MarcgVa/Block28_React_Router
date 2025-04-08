@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div className="bg-amber-900 text-9xl w-auto h-full flex items-center justify-center">
+    <div className="absolute h-full w-full bg-amber-900 text-9xl flex items-center justify-center">
       <div className="px-40 py-20 
             drop-shadow-xl drop-shadow-amber-300 
             bg-linear-0 from-green-700 via-orange-300 to-amber-700 
